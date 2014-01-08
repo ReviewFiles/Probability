@@ -9,8 +9,8 @@ Brief Review for Probability
 
 + Trimmed mean
 
-+ sample mean               X
-+ population mean           x
++ sample mean             **X**
++ population mean         **x**
 
 
 
@@ -43,6 +43,7 @@ Brief Review for Probability
 + Continuous Random Variable
      Cdf Pdf... 
 	 mean
+
 + 正态分布
 
 ## Chapter 5
@@ -52,10 +53,10 @@ Brief Review for Probability
 
 + Multinomial Distribution
 
-+ **Covarience**
-+ **Correaltion Coefficient**
++ Covarience
++ Correaltion Coefficient
 
-+ **population -> samples ->statistic
++ **population -> samples ->statistic**
 
 + CLT Central Limit Theorem
 
@@ -65,7 +66,7 @@ Brief Review for Probability
 
 + method of moment
 
-+ MLE Maximum Likelihood Estimation
++ **MLE Maximum Likelihood Estimation**
 
 ## Chapter 7
 
