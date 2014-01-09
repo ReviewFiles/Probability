@@ -2,6 +2,12 @@ Probability
 ===========
 
 Brief Review for Probability
+---
+
+**声明：不保证提到keypoint的考试一定考，没提到的一定不考**
+
+**All Rights Reserved.**
+
 
 # 概率与统计
  
